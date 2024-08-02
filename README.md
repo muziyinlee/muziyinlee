@@ -14,7 +14,7 @@ We are an English learning studio.
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muziyinlee&theme=merko&custom_title=Louis%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/muziyinlee)
 
 
-
+<!-- 
 <h2>🔧 语言和工具</h2>
 
 <p align="left">
@@ -81,7 +81,7 @@ We are an English learning studio.
     <!-- ********** X ********** -->
     <!-- ********** Y ********** -->
     <!-- ********** Z ********** -->
-</p>
+</p> -->
 
 
 <h2>💬 与我联系</h2>
